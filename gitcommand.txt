@@ -1,0 +1,23 @@
+
+(1) how to push file into github.commit
+
+ 
+//copy repository in local computer database
+git clone repo-uri
+
+//show the file commit or not or modify
+git status
+
+//add file into the staging area
+git add filename
+
+//add file into local-vcs-database
+git commit -m "message"
+
+//push file into remote server
+git push
+
+//show the diffrence between current file and commit file
+git difftool
+
+(2)
